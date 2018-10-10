@@ -1,4 +1,6 @@
 #Back up dữ liệu theo lịch cho trước
+<b>Backup file từ thư mục này sang thư mục khác, và xóa khi quá hạn
+</b>
 #Build
 Dùng eclipse import vào rồi build gói jar để run
 Hoặc lấy gói jar để run
